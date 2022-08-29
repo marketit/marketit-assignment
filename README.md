@@ -5,7 +5,7 @@
 ## 개요
 
 [HackerNews](https://github.com/HackerNews/API)의 공개 API 를 사용하여 article의 제목 목록을 보여주고, 제목을 클릭하여 전체 내용을 볼 수 있는 페이지를 구현합니다.\
-이 Repository를 [Fork](https://github.com/marketit/marketit-assignment/fork)하여 작업한 후, 완료되었음을 dev@marketit.asia 에 알려주세요.\
+이 Repository를 [Fork](https://github.com/marketit/marketit-assignment/fork)하여 작업한 후, 완료되었음을 recruit@marketit.io 에 알려주세요.\
 자세한 내용은 아래 요구사항과 API 명세를 확인해주세요.
 
 ## 요구사항
@@ -120,4 +120,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contact
 
-위 과제와 관련하여 궁금한 사항이 있으실 경우 dev@marketit.asia 로 문의주시기 바랍니다.
+위 과제와 관련하여 궁금한 사항이 있으실 경우 recruit@marketit.io 로 문의주시기 바랍니다.
